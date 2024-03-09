@@ -22,7 +22,6 @@ The data source is the Global Superstore dataset.
 
 - **Tables for Visualizations:** Supporting tables are created to provide detailed information for each visualization.
 
-- **Interactive Report:** The project culminates in an interactive report that allows stakeholders to explore sales data dynamically
 # Project Structure
 
 - ***Data:*** Contains the dataset used in the project.
@@ -33,4 +32,5 @@ The data source is the Global Superstore dataset.
 Overall, the dashboards aim to provide comprehensive insights into sales, product performance, and shipping trends, allowing stakeholders to make informed decisions based on the data.
 
 **Contributing**
+
 Contributions to this project are welcome.
