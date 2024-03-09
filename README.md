@@ -9,20 +9,28 @@ The dataset is loaded into Power BI, and after data cleaning and modeling, a rel
 # ***Data***
 The data source is the Global Superstore dataset.
 
-# Dashboard Overview
-***Sales Analysis Dashboard***
+# Project Overview
+***The project is structured as follows***
 
-Allows the sales department to analyze sales and profit, with filters for years and quarterly sales.
-Provides insights such as total sales and profit between 2011-2014, sales and profit in 2014, profit distribution by product category, and sales trends over the years.
+- **Data Cleaning:** The dataset is cleaned to ensure data quality and consistency.
 
-***Product Analysis Dashboard***
+- **Segmentation of Visuals:** Visuals are segmented by country, region, and market to provide targeted analysis.
 
-Analyzes product categories, quantity ordered, and product subcategories.
-Highlights insights such as the most ordered product categories, average discounts, and sales trends for different product types.
+- **Shipping Analysis**: The percentage of shipping based on ship mode is visualized to understand shipping preferences.
 
-***Shipping Analysis Dashboard***
+- **Sales Report:** Sales data is analyzed and visualized over cities, states, regions, and markets to identify trends and patterns.
 
-Analyzes shipping modes, order priorities, and shipping costs by market.
-Provides insights such as the distribution of shipping modes, order priorities, and shipping costs across different markets.
+- **Tables for Visualizations:** Supporting tables are created to provide detailed information for each visualization.
+
+- **Interactive Report:** The project culminates in an interactive report that allows stakeholders to explore sales data dynamically
+# Project Structure
+
+- ***Data:*** Contains the dataset used in the project.
+- ***Visualizations:*** Contains screenshots of the visualizations generated in Power BI.
+- ***Reports: Contains*** the final interactive report in .pbix format
+
 # ***Conclusion***
 Overall, the dashboards aim to provide comprehensive insights into sales, product performance, and shipping trends, allowing stakeholders to make informed decisions based on the data.
+
+**Contributing**
+Contributions to this project are welcome.
