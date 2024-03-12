@@ -25,11 +25,12 @@ The data source is the Global Superstore dataset.
 
 - **Tables for Visualizations:** Supporting tables are created to provide detailed information for each visualization.
 
+- **Also included visualizations regarding shipping and products**
 # Project Structure
 
 - ***Data:*** Contains the dataset used in the project.
 - ***Visualizations:*** Contains screenshots of the visualizations generated in Power BI.
-- ***Reports: Contains*** the final interactive report in .pbix format
+- ***Reports:*** Contains the final interactive report in .pbix format
 
 # ***Conclusion***
 Overall, the dashboards aim to provide comprehensive insights into sales, product performance, and shipping trends, allowing stakeholders to make informed decisions based on the data.
