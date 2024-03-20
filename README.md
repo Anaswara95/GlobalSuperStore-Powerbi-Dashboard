@@ -1,4 +1,4 @@
-# PowerBi-miniProject
+# PowerBi-GlobalSuperStore Dashboard
 
 # Introduction
 The project aims to analyze the Global Superstore dataset using Power BI, focusing on key metrics such as total sales, sales by product, sales by location, and comparisons to prior years.
