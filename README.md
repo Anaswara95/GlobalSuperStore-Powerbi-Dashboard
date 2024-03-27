@@ -1,4 +1,5 @@
 # PowerBi-GlobalSuperStore Dashboard
+[Global Superstore Dataset](https://drive.google.com/drive/folders/1U6l6iqE6k7xX_ZO3HXfnJcecooBBlEyk?usp=sharing)
 
 # Introduction
 The project aims to analyze the Global Superstore dataset using Power BI, focusing on key metrics such as total sales, sales by product, sales by location, and comparisons to prior years.
